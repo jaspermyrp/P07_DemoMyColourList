@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo My Colour List</string>
+    <string name="et_hint">Enter new colour</string>
+    <string name="et_hint2">Enter index</string>
+    <string name="btn">Add new colour</string>
+    <string name="btn2">Remove a colour</string>
+    <string name="btn3">Update a colour</string>
+</resources>
